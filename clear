@@ -1,0 +1,23 @@
+[33mcommit f3eec9e5c38d7183e0af9ee4168cddd15fca2cc9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jose Mauricio <jmauricio.a.ferreira@gmail.com>
+Date:   Mon Aug 31 20:31:10 2020 -0300
+
+    Criando a função para escolher uma frase pelo id
+
+[33mcommit a7fe87de7405764ed0b4a8db298dae75292d66d0[m
+Author: Jose Mauricio <jmauricio.a.ferreira@gmail.com>
+Date:   Mon Aug 31 11:27:28 2020 -0300
+
+    Buscando frases aleatorias no servidor
+
+[33mcommit 295f188bdc696a6ea9ff0604688dc4701b0ee983[m
+Author: Jose Mauricio <jmauricio.a.ferreira@gmail.com>
+Date:   Sun Aug 30 18:35:58 2020 -0300
+
+    criando animacao placar deslizante
+
+[33mcommit 65412aa6bcac13a933f741ad166567342f4e7d86[m
+Author: Jose Mauricio <jmauricio.a.ferreira@gmail.com>
+Date:   Sun Aug 30 12:39:31 2020 -0300
+
+    criação da tabela placar
