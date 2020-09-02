@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <title>Quick Typer</title>
     <link rel="stylesheet" href="css/libs/materialize.min.css">
+    <link rel="stylesheet" href="css/libs/selectize.default.css">
     <link rel="stylesheet" href="css/libs/google-fonts.css">
+    <link rel="stylesheet" href="css/libs/tooltipster.bundle.min.css">
+
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
@@ -44,7 +47,17 @@
             </a>
             <input type="number" id="frase-id" min="0">
 
-            <a id="botao-sync" class="btn-floating btn-large waves-effect waves-light pink">
+            <div class="select-usuarios">
+                <select id="usuarios">
+                    <option value="Mauricio">Mauricio</option>
+                    <option value="Mauricio">Mauricio</option>
+                </select>
+
+            </div>
+
+            <a class="btn-floating btn-large waves-effect waves-light pink tooltip"
+               id="botao-sync"
+               title="Sincronizado com sucesso">
                 <i class="material-icons">swap_vert</i>
             </a>
         </div>
@@ -76,6 +89,8 @@
     <script src="js/main.js"></script>
     <script src="js/placar.js"></script>
     <script src="js/frase.js"></script>
+    <script src="js/selectize.js"></script>
+    <script src="js/tooltipster.bundle.min.js"></script>
 
 </body>
 </html>
