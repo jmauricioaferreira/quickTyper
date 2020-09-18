@@ -2,7 +2,7 @@
 
 
 
-![Design of the website](./img/design.gif)
+![Design of the website](./public/img/quick-typer.gif)
 
 ### Hi! 👋
 
