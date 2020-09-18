@@ -1,9 +1,6 @@
 # quickTyper
 
 
-
-![Design of the website](./public/img/quick-typer.gif)
-
 ### Hi! 👋
 
 
